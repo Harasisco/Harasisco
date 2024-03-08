@@ -1,8 +1,10 @@
 <h3 align="center">Hello there, I'm Khaled Alharasis 👋</h3>
+
 <h5 align="center">
 <code><a href="https://www.linkedin.com/in/khaled-alharasis/" title="LinkedIn"><img width="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> LinkedIn</a></code>
   <code><a href="https://medium.com/@Harasisco" title="Medium"><img width="22" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> Medium</a></code>
 </h5>
+
 <p align="center">
   <br>I'm a DevOps Engineer trainee and Reverse engineering. 
   <br>I’m currently learning and improving my DevOps skills.
@@ -38,3 +40,9 @@
 
 <a href="https://github.com/Harasisco/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Harasisco&show_icons=true&theme=gotham"></a>
 ![profile](https://komarev.com/ghpvc/?username=Harasisco&color=red&style=plastic)
+
+
+<br clear="both">
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
