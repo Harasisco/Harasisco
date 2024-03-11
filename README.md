@@ -24,10 +24,7 @@
 <p>&nbsp;</p>
     
   </samp>
-</div>
-<p>&nbsp;</p>
-    
-  </samp>
+<p>&nbsp;</p>    
 </div>
 
 <details align="center">
