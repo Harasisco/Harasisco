@@ -116,14 +116,14 @@
 
   <div align="center">
     <h3>IDEs, Tools & Platform</h3>
+    <a href="https://www.vim.org/" target="_blank">
+      <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=Vim&logoColor=white"/> 
+    </a>
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
     </a>
     <a href="https://postman.com" target="_blank"> 
       <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-    </a>
-    <a href="https://insomnia.rest/" target="_blank"> 
-      <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia"/>
     </a>
     <a href="https://ubuntu.com/" target="_blank"> 
       <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
