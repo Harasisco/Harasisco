@@ -16,11 +16,15 @@
 
 - 🤝 I’m looking for help with **Automation using Python**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Harasisco), [Gitlab](https://gitlab.com/Harasisco)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Harasisco)
 
 - 💬 Ask me about **DevOps & Reverse Engineering**
 
     
+<p>&nbsp;</p>
+    
+  </samp>
+</div>
 <p>&nbsp;</p>
     
   </samp>
