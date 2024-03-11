@@ -1,56 +1,166 @@
-<h2 align="center">Hello there, I'm Khaled Alharasis 👋</h2>
+<div align="center">
+  <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
+  <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Khaled Alharasis</h1>
+  <h3>A passionate DevOps & cloud engineer trainee from Jordan.</h3>
+</div>
+ 
+ <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
 
-<h5 align="center">
-<code><a href="https://www.linkedin.com/in/khaled-alharasis/" title="LinkedIn"><img width="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> LinkedIn</a></code>
-  <code><a href="https://medium.com/@Harasisco" title="Medium"><img width="22" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> Medium</a></code>
-</h5>
+<div align="left">
+  <samp>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-<p align="center">
-  <br>I'm a DevOps Engineer trainee and Reverse engineering. 
-  <br>I’m currently learning and improving my DevOps skills.
-  <br>How to reach me: <a href="mailto: alharasisk@gmail.com">alharasisk@gmail.com</a>
-</p>
+    
+- 🌱 I’m currently learning **To be DevOps Engineer**
 
-<hr>
+- 🤝 I’m looking for help with **Automation using Python**
 
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"  height="25"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"  height="25"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="25"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"  height="25"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  height="25"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"  height="25"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="25"/> </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins"  height="25"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes"  height="25"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="25"/> </a> 
-</p>
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Harasisco), [Gitlab](https://gitlab.com/Harasisco)
 
-<hr>
+- 💬 Ask me about **DevOps & Reverse Engineering**
 
-<h2 align="center">Projects</h2>
-<p align="center">
-  <a href="https://github.com/Harasisco/Dockarizing-Django-nginx-MySQL"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harasisco&repo=Dockarizing-Django-nginx-MySQL&theme=tokyonight" /> </a>   
-  <a href="https://github.com/Harasisco/K8s-Django-App">  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harasisco&repo=K8s-Django-App&theme=tokyonight" /> </a>
-</p>
-<hr>
+    
+<p>&nbsp;</p>
+    
+  </samp>
+</div>
 
-<a href="https://github.com/Harasisco/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Harasisco&show_icons=true&theme=gotham"></a>
+<details align="center">
+<summary>🔬 <strong>my skillset</strong></summary>
 
-<br clear="both">
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div>
+  <div align="center">
+    <h1>Knowledge Base</h1>
+    <img width="350" height="auto" src="./resources/img/coding-dawn.gif"/>
+  </div>
+
+  <div align="center">
+    <h3>Languages</h3>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
+        alt="python"/>
+    <a href="https://www.cprogramming.com/" target="_blank">
+      <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white"
+        alt="C"/>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+      <img src="https://img.shields.io/badge/Cpp-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"
+        alt="Cpp"/>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+      <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"
+        alt="Bash"/>
+    </a>
+  </div>
+
+  <div align="center">
+    <h3>Backend</h3>
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+        alt="docker"/>
+    </a>
+    <a href="https://kubernetes.io" target="_blank"> 
+      <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+    </a>
+    <a href="https://www.nginx.com" target="_blank"> 
+      <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
+        alt="nginx"/> 
+    </a>
+  </div>
+
+  <div align="center">
+    <h3>Database</h3>
+    <a href="https://www.postgresql.org" target="_blank"> 
+      <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+        alt="postgresql"/> 
+    </a>
+    <a href="https://redis.io" target="_blank"> 
+      <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
+        alt="redis"/>
+    <a href="https://www.mysql.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+        alt="MySQL"/>
+    </a>
+  </div>
+
+  <div align="center">
+    <h3>Cloud Service</h3>
+    <a href="https://aws.amazon.com/" target="_blank">
+      <img  src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> 
+    </a>
+  </div>
+
+  <div align="center">
+    <h3>Source Control & CI/CD</h3>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+        alt="git"/>
+    </a>
+    <a href="https://github.com/Harasisco" target="_blank">
+      <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    </a>
+    <a href="https://gitlab.com/Harasisco" target="_blank">
+      <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+        alt="git"/>
+    </a>
+    <a href="https://www.jenkins.io" target="_blank"> 
+      <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
+    </a>
+    <a href="https://www.ansible.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/> 
+    </a>
+  </div>
+
+  <div align="center">
+    <h3>IDEs, Tools & Platform</h3>
+    <a href="https://eclipse.org" target="_blank">
+      <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+    </a>
+    <a href="https://postman.com" target="_blank"> 
+      <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+    </a>
+    <a href="https://insomnia.rest/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia"/>
+    </a>
+    <a href="https://ubuntu.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+    </a>                                                                                                                   
+  </div>
+</div>
+</details>
+
+<div align="center">
+  <h3>Connect with me</h3>
+  <div>
+     <a  href="https://www.linkedin.com/in/khaled-alharasis/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+    <a href="https://medium.com/@Harasisco" target="_blank">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Harasisco"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://leetcode.com/Harasisco/" target="_blank">
+      <img src="https://img.shields.io/badge/leetcode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
+    </a>                                                                                                                             
+  </div>
+  <div>
+    <h3>Reach me</h3>
+    <a  href="https://t.me/Harasisco" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Harasisco"/>
+    </a>
+    <a href="mailto:alharasisk@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+      <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Harasisco"/>
+    </a>
+  </div>
+</div>
+<p>&nbsp;</p>
+
+<div align="center">
+  <h2>Github stats</h2> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Harasisco&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/Harasisco" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harasisco&theme=material-palenight" alt="https://github.com/Harasisco" />
+</div>
