@@ -14,8 +14,6 @@
     
 - 🌱 I’m currently learning **To be DevOps Engineer**
 
-- 🤝 I’m looking for help with **Automation using Python**
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Harasisco)
 
 - 💬 Ask me about **DevOps & Reverse Engineering**
