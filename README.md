@@ -139,11 +139,6 @@
     </a>
   </div>
   <div>
-    <a href="https://leetcode.com/Harasisco/" target="_blank">
-      <img src="https://img.shields.io/badge/leetcode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
-    </a>                                                                                                                             
-  </div>
-  <div>
     <h3>Reach me</h3>
     <a  href="https://t.me/Harasisco" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Harasisco"/>
