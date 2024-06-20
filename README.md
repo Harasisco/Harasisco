@@ -153,5 +153,5 @@
 <div align="center">
   <h2>Github stats</h2> 
   <img src="https://github-readme-stats.vercel.app/api?username=Harasisco&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="https://github.com/Harasisco" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harasisco&theme=material-palenight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harasisco&theme=material-palenight&border_radius=4" alt="GitHub Streak" />
 </div>
